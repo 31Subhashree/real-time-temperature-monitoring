@@ -1,0 +1,13 @@
+.badge {
+  padding: 5px 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.NORMAL {
+  background-color: green;
+}
+
+.HIGH {
+  background-color: red;
+}
